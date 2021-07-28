@@ -24,7 +24,7 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 
 * Exercício com a classe  Pilha
 
-#### :white_check_mark: Módulo #3 Pilhas (FIFO):
+#### :white_check_mark: Módulo #3 Filhas (FIFO):
 
 #### :white_check_mark: Módulo #4 Listas Encadeadas:
 
