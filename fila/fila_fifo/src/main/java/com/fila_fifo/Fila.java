@@ -1,8 +1,8 @@
 package com.fila_fifo;
 
-public class Fila {
+public class Fila<T> {
 
-	private No refNoEntradaFila;
+	private No<T> refNoEntradaFila;
 
 	public Fila() {
 		this.refNoEntradaFila = null;
@@ -12,12 +12,13 @@ public class Fila {
 		return refNoEntradaFila == null ? true : false;
 	}
 
-	public void enqueue(No novoNo) {
+	public void enqueue(T object) {
+		No novoNo = new No(object);
 		novoNo.setRefNo(refNoEntradaFila);
 		refNoEntradaFila = novoNo;
 	}
 
-	public No dequeue() {
+	public T dequeue() {
 		if (!this.isEmpty()) {
 			No primeiroNo = refNoEntradaFila;
 			No noAux = refNoEntradaFila;
@@ -30,12 +31,12 @@ public class Fila {
 					break;
 				}
 			}
-			return primeiroNo;
+			return (T) primeiroNo.getObject();
 		}
 		return null;
 	}
 
-	public No first() {
+	public T first() {
 		if (!this.isEmpty()) {
 			No primeiroNo = refNoEntradaFila;
 			while (true) {
@@ -45,7 +46,7 @@ public class Fila {
 					break;
 				}
 			}
-			return primeiroNo;
+			return (T) primeiroNo.getObject();
 		}
 		return null;
 	}
