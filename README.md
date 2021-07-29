@@ -17,7 +17,7 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 #### :white_check_mark: Módulo #2 Pilhas (LIFO):
 
 * Conceito teórico de Pilhas.
-* Implementação da classe Pilha com métodos
+* Implementação da classe Pilha com métodos.
   * Top
   * Push
   * Pop
@@ -25,6 +25,14 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 * Exercício com a classe  Pilha
 
 #### :white_check_mark: Módulo #3 Filhas (FIFO):
+
+* Teoria do conceito de fila.
+* Implementação da classe fila com os métodos.
+  * Enqueue
+  * Dequeue
+* Exercícios com a classe fila.
+* Refatoração para embutir Nó.
+* Refatoração para utilização de Generics.
 
 #### :white_check_mark: Módulo #4 Listas Encadeadas:
 
