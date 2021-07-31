@@ -16,7 +16,7 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 
 #### :white_check_mark: Módulo #2 Pilhas (LIFO):
 
-* Conceito teórico de Pilhas.
+* Conceito de Pilhas.
 * Implementação da classe Pilha com métodos.
   * Top
   * Push
@@ -26,7 +26,7 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 
 #### :white_check_mark: Módulo #3 Filhas (FIFO):
 
-* Teoria do conceito de fila.
+* Conceito de fila.
 * Implementação da classe fila com os métodos.
   * Enqueue
   * Dequeue
@@ -36,7 +36,7 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 
 #### :white_check_mark: Módulo #4 Listas Encadeadas:
 
-* Teoria do conceito de lista encadeadas
+* Conceito de listas encadeadas
 * Implementação da classe No
 * Implementação da class ListaEncadeada com os métodos.
   * isEmpty()
@@ -49,6 +49,18 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 * Exercício com a classe ListaEncadeada.
 
 #### :white_check_mark: Módulo #5 Listas Duplamente Encadeadas:
+
+* Conceito de listas duplamente encadeadas.
+* Implementação da classe NoDuplo.
+* Implementação da classe ListaDuplamenteEncadeada com o métodos.
+  * Size()
+  * get() e getNo()
+  * add()
+  * add(index)
+  * remove()
+  * toString()
+
+* Exercícios com a classe ListaDuplamenteEncadeada.
 
 #### :white_check_mark: Módulo #6 Listas Circulares:
 
