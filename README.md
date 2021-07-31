@@ -18,9 +18,9 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 
 * Conceito de Pilhas.
 * Implementação da classe Pilha com métodos.
-  * Top
-  * Push
-  * Pop
+  * Top()
+  * Push()
+  * Pop()
 
 * Exercício com a classe  Pilha
 
@@ -28,8 +28,8 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 
 * Conceito de fila.
 * Implementação da classe fila com os métodos.
-  * Enqueue
-  * Dequeue
+  * Enqueue()
+  * Dequeue()
 * Exercícios com a classe fila.
 * Refatoração para embutir Nó.
 * Refatoração para utilização de Generics.
@@ -53,7 +53,7 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 * Conceito de listas duplamente encadeadas.
 * Implementação da classe NoDuplo.
 * Implementação da classe ListaDuplamenteEncadeada com o métodos.
-  * Size()
+  * size()
   * get() e getNo()
   * add()
   * add(index)
@@ -63,6 +63,18 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 * Exercícios com a classe ListaDuplamenteEncadeada.
 
 #### :white_check_mark: Módulo #6 Listas Circulares:
+
+* Conceito de listas circulares.
+* Implementação da classe No.
+* Implementação da classe ListaCircular.
+  * size()
+  * isEmpty
+  * get() e getNo()
+  * add()
+  * remove()
+  * toString()
+
+* Exercícios com a classe ListaCircular.
 
 #### :white_check_mark: Módulo #7 Árvores:
 
