@@ -36,6 +36,18 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 
 #### :white_check_mark: Módulo #4 Listas Encadeadas:
 
+* Teoria do conceito de lista encadeadas
+* Implementação da classe No
+* Implementação da class ListaEncadeada com os métodos.
+  * isEmpty()
+  * Size()
+  * add()
+  * getNo()
+  * get()
+  * remove()
+  * toString()
+* Exercício com a classe ListaEncadeada.
+
 #### :white_check_mark: Módulo #5 Listas Duplamente Encadeadas:
 
 #### :white_check_mark: Módulo #6 Listas Circulares:
