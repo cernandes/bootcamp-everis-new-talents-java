@@ -66,7 +66,7 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 
 * Conceito de listas circulares.
 * Implementação da classe No.
-* Implementação da classe ListaCircular.
+* Implementação da classe ListaCircular com o métodos.
   * size()
   * isEmpty
   * get() e getNo()
@@ -77,6 +77,18 @@ Nesse Curso o instrutor, [João Ricardo Corê Dutra](https://www.linkedin.com/in
 * Exercícios com a classe ListaCircular.
 
 #### :white_check_mark: Módulo #7 Árvores:
+
+* Conceito de árvore binária.
+* Conceito de busca binária.
+* Interface Comparable.
+* Implementação da class NoBinario.
+* Implementação da classe ArvoreBinaria com o métodos.
+  * inserir()
+  * remover()
+  * exibirEmOrdem()
+  * exibirPreOrdem()
+  * exibirPosOrdem()
+* Exercício com a classe ArvoreBinaria.
 
 #### :white_check_mark: Módulo #8 Principais implementações:
 
